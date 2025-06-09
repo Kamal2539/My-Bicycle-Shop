@@ -1,0 +1,120 @@
+
+header{
+    float: center;
+    width: 90%;
+    height:140px;
+    background-color: #c7a96d;
+    margin-left: auto;
+    margin-right: auto;
+    border-top:2px solid #221811;
+    border-left:2px solid #221811; 
+}
+	
+header h1{
+    float:right;
+    padding-right: 10px;
+    font-size:3em;
+}
+	 	
+body{
+    background-color:#FCEBB6;
+    font-family:verdana;
+    width: 90%;
+    margin-left:5%;
+}
+        
+nav{
+    float: center;
+    height:100px;
+    text-align: center;
+    background-color:#0e0e0f;
+    width:90%;	
+    margin-left: 5%;
+    margin-right: auto;
+    height: auto;
+	display: block;	 
+	padding-top:20px;
+    margin-bottom:20px;
+	font-weight:bold;
+	font-size:1.7em; 
+    border-left:2px solid #221811;
+}
+
+nav a{
+    text-decoration:none;
+}
+nav a:link{color:#FCEBB6;}
+nav a:visited{color:#FCEBB6;}					
+nav a:hover{color:#c7a96d;}
+#nav1{
+    float:left;
+}
+#nav1{
+    float:Right;
+}
+
+#b{
+    text-align: center;
+    width:90%;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+#btn{
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 20%;  
+}
+
+#product{
+    width:90%;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+footer{
+    background-color:#c7a96d;;
+    font-size:.80em; 
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    font-style: italic; 
+    text-align:center;
+    padding-bottom:10px;
+    border-top:2px solid #221811;
+    border-bottom:2px solid #221811;
+    border-left:2px solid #221811; 
+    display:block;
+}
+
+h2{
+    width:90%;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+table th{
+        padding-right: 40px;
+}
+table td{
+        padding-right: 40px;
+}
+#ord
+{
+    float: center;
+    height:100px;
+    text-align: center;
+    background-color:#0e0e0f;
+    width:90%;	
+    margin-left: 5%;
+    margin-right: auto;
+    height: auto;
+	display: block;	 
+	padding-top:20px;
+    margin-bottom:20px;
+	font-weight:bold;
+	font-size:1.7em; 
+    border-left:2px solid #221811;   
+}
